@@ -25,7 +25,7 @@ def Inicio():
                         <center>
                             <img src="ico.png" width="150" height="150">
                             <div style="background-color:#df2fb9">
-                                <h1>Scanner-APP</h1>
+                                <h1>WebIDE-Editor</h1>
                             </div>
                         </center>
                     </div>
@@ -114,7 +114,7 @@ def tablate(Tokens):
             <div class="box">
                 <figure>
                     <a href="#">
-                        <img src="xd.ico" alt="Loco Scanner-APP">
+                        <img src="xd.ico" alt="Loco WebIDE-Editor">
                     </a>
                 </figure>
             </div>
@@ -131,14 +131,14 @@ def tablate(Tokens):
             <div class="box">
                 <figure>
                     <a href="#">
-                        <a href="https://github.com/Lal0gg" target="_blank"> <img src="git.ico" alt="Loco Scanner-APP" alt="git-image"
+                        <a href="https://github.com/Lal0gg" target="_blank"> <img src="git.ico" alt="Loco WebIDE-Editor" alt="git-image"
                             width=100%>
                 </figure>
             </div>
         </div>
         <div class="grupo-2">
             <small>
-                <p>&copy; 2022 <b>Scanner-App</b> "- Todos Los Derechos Reservados"</p>
+                <p>&copy; 2022 <b>WebIDE-Editor</b> "- Todos Los Derechos Reservados"</p>
             </small>
         </div>
     </footer>
